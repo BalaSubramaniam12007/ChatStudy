@@ -1,6 +1,6 @@
 
-## Developed by : ILEVARASEN S
-## Reg No : 212224040120
+## Developed by : BALASUBRAMANIAM L
+## Reg No : 212224240020
 
 ## Ex. No:1b-Study of Client Server Chat Applications
 
